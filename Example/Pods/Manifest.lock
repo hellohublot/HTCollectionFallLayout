@@ -1,0 +1,16 @@
+PODS:
+  - HTCollectionFallLayout (0.1.0)
+
+DEPENDENCIES:
+  - HTCollectionFallLayout (from `../`)
+
+EXTERNAL SOURCES:
+  HTCollectionFallLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HTCollectionFallLayout: 32c2017f2de34cf01cf8e09b77cc38f597c2e4e7
+
+PODFILE CHECKSUM: e34fcb2923cde5dcf47067e28b6788705c3bb450
+
+COCOAPODS: 1.11.2
