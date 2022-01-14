@@ -8,7 +8,7 @@
 [点击查看完整示例 Example](./Example/HTCollectionFallLayout/HTViewController.m)
 
 ```ruby
-pod'HTCollectionFallLayout', :git => 'https://github.com/hellohublot/HTCollectionFallLayout.git'
+pod 'HTCollectionFallLayout', :git => 'https://github.com/hellohublot/HTCollectionFallLayout.git'
 ```
 ```objective-c
 - (void)registerClass:(nullable Class)viewClass forDecorationViewOfKind:(NSString *)elementKind;
