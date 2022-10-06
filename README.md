@@ -1,11 +1,12 @@
-- 支持自定义 UICollectionView 每个 section 的属性，比如背景颜色
-- 支持瀑布流
+## Features
+- Support custom UICollectionView properties of each section, such as background color
+- Waterfall support
 
 <img src="./Example/example.png" width="300">
 
 ## Usage
 
-[点击查看完整示例 Example](./Example/HTCollectionFallLayout/HTViewController.m)
+[Example](./Example/HTCollectionFallLayout/HTViewController.m)
 
 ```ruby
 pod 'HTCollectionFallLayout', :git => 'https://github.com/hellohublot/HTCollectionFallLayout.git'
