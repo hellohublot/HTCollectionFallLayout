@@ -4,7 +4,7 @@ An iOS collectionView layout library that supports high customizing each section
 
 ## Features
 - Support for customizing each section, such as background color or rounded corners, etc.
-- Support Waterfall
+- Support waterfall layout
 
 <img src="./Example/example.png" width="300">
 
