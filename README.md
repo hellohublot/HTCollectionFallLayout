@@ -1,6 +1,6 @@
 ## HTCollectionFallLayout
 
-An iOS collectionView layout library that supports high customizing each section and waterfall flow
+An iOS collectionView layout library that supports high customizing each section and waterfall layout
 
 ## Features
 - Support for customizing each section, such as background color or rounded corners, etc.
