@@ -1,16 +1,24 @@
+## HTCollectionFallLayout
+
+An iOS collectionView layout library that supports high customizing each section and waterfall flow
+
 ## Features
-- Support custom UICollectionView properties of each section, such as background color
-- Waterfall support
+- Support for customizing each section, such as background color or rounded corners, etc.
+- Support Waterfall
 
 <img src="./Example/example.png" width="300">
 
-## Usage
-
-[Example](./Example/HTCollectionFallLayout/HTViewController.m)
+## Install
 
 ```ruby
 pod 'HTCollectionFallLayout', :git => 'https://github.com/hellohublot/HTCollectionFallLayout.git'
 ```
+
+## Usage
+
+[View Fulll Example](./Example/HTCollectionFallLayout/HTViewController.m)
+
+
 ```objective-c
 - (void)registerClass:(nullable Class)viewClass forDecorationViewOfKind:(NSString *)elementKind;
 
@@ -28,6 +36,6 @@ pod 'HTCollectionFallLayout', :git => 'https://github.com/hellohublot/HTCollecti
 }
 ```
 
-## Author
+## Contact
 
 hellohublot, hublot@aliyun.com
